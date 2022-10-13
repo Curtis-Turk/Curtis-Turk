@@ -1,16 +1,37 @@
 ### Hi there 👋
 
-<!--
-**Curtis-Turk/Curtis-Turk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a creative and dynamic full stack developer who believes in building projects that solve real world problems.
 
-Here are some ideas to get you started:
+I've just completed the Makers academy intensive bootcamp learning the value of test-driven, agile development with object oriented design. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm looking to expand my experience in a full stack developer role.
+
+Languages and Tools
+-------------
+
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML-FF5733?style=for-the-badge&logo=html5&logoColor=FF5733&labelColor=282828">
+  <img src="https://img.shields.io/badge/-CSS-559DFF?style=for-the-badge&logo=css3&logoColor=559DFF&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Ruby-FF6A55?style=for-the-badge&logo=ruby&logoColor=FF6A55&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Javascript-f7e968?style=for-the-badge&logo=javascript&logoColor=f7e968&labelColor=282828"><br>
+  
+  <img src="https://img.shields.io/badge/-Cypress-3b3938?style=for-the-badge&logo=cypress&logoColor=faf2ed&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Jest-B84D6F?style=for-the-badge&logo=jest&logoColor=B84D6F&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Node.js-80D857?style=for-the-badge&logo=node.js&logoColor=80D857&labelColor=282828">
+  <img src="https://img.shields.io/badge/-RSpec-F05892?style=for-the-badge&logo=ruby&logoColor=F05892&labelColor=282828">
+  <img src="https://img.shields.io/badge/-React-58D2F0?style=for-the-badge&logo=react&logoColor=58D2F0&labelColor=282828"><br>
+  
+  <img src="https://img.shields.io/badge/-MongoDB-51A940?style=for-the-badge&logo=mongodb&logoColor=51A940&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Github Actions-4391D6?style=for-the-badge&logo=githubactions&logoColor=4391D6&labelColor=282828">
+  <img src="https://img.shields.io/badge/-PostgreSQL-3b3938?style=for-the-badge&logo=postgresql&logoColor=faf2ed&labelColor=282828"><br>
+</div>
+</p>
+
+## Projects
+
+| Name                            | Description                  | Tech Stack / Tools             |
+| ------------------------------- | ---------------------------- | ------------------------------ |
+| [Travel-Lite](https://github.com/Curtis-Turk/Travel-lite) | A webapp to help you make sustainable travel decisions| React, Tailwind, Cypress, Google API, Travel advisor API |
+| [Axylotls-AceBook](https://github.com/Curtis-Turk/the-axylotls-acebook)| A social media site for salamanders | Node, Express, MongoDB, Bootstrap, Cypress, Jest |
+| [Makers BnB](https://github.com/Curtis-Turk/makersbnb-ruby-seed) | An AirBnB inspired group project | Ruby, Sinatra, Rack, CSS, PostgreSQL, Rspec |  

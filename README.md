@@ -4,7 +4,7 @@ I'm a creative and dynamic full stack developer who believes in building project
 
 I've just completed the Makers academy intensive bootcamp learning the value of test-driven, agile development with object oriented design. 
 
-I'm looking to expand my experience in a full stack developer role.
+I'm looking to expand my experience in a full stack developer role. [CV](https://github.com/Curtis-Turk/CV)
 
 Languages and Tools
 -------------

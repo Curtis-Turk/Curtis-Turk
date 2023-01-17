@@ -4,7 +4,9 @@ I'm a creative and dynamic full stack developer who believes in building project
 
 I've just completed the Makers academy intensive bootcamp learning the value of test-driven, agile development with object oriented design. 
 
-I'm looking to expand my experience in a full stack developer role. 
+I'm looking to expand my experience in a full stack developer role.
+
+Currently working on 🎵 [NTSu](https://github.com/Curtis-Turk/NTSu)
 
 Checkout my [CV](https://github.com/Curtis-Turk/CV)
 
@@ -34,6 +36,7 @@ Languages and Tools
 | Name                                                                                        | Description                                            | Tech Stack / Tools                                       |
 | ------------------------------------------------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------- |
 | 🚆 [Travel-Lite](https://github.com/Curtis-Turk/Travel-lite)                                | A webapp to help you make sustainable travel decisions | React, Tailwind, Cypress, Google API, Travel advisor API |
+|🎶 [NTSu](https://github.com/Curtis-Turk/NTSu)	|NTS radio show track finder that helps you find your next favourite song	|React, MongoDB, Express, Node, Cheerio|
 | 🏦 [Bank tech test](https://github.com/Curtis-Turk/tech_tests/tree/main/bank)               | A tech test of OOP, TDD process                        | Node, Jest, ESlint                                       |
 | 🦎 [Axylotls-AceBook](https://github.com/Curtis-Turk/the-axylotls-acebook)                  | A social media site for salamanders                    | Node, Express, MongoDB, Bootstrap, Cypress, Jest         |
 | 🏡 [Makers BnB](https://github.com/Curtis-Turk/makersbnb-ruby-seed)                         | An AirBnB inspired group project                       | Ruby, Sinatra, Rack, CSS, PostgreSQL, Rspec              |
